@@ -1,2 +1,4 @@
-# bigdata-spark 
-BerkeleyX: CS100.1x, Introduction to Big Data with Apache Spark
+# BerkeleyX: CS100.1x, Introduction to Big Data with Apache Spark
+Organizations use their data for decision support and to build data-intensive products and services, such as recommendation, prediction, and diagnostic systems. The collection of skills required by organizations to support these functions has been grouped under the term Data Science. This course will attempt to articulate the expected output of Data Scientists and then teach students how to use PySpark (part of Apache Spark) to deliver against these expectations. The course assignments include Log Mining, Textual Entity Recognition, Collaborative Filtering exercises that teach students how to manipulate data sets using parallel processing with PySpark.
+
+This course covers advanced undergraduate-level material. It requires a programming background and experience with Python (or the ability to learn it quickly). All exercises will use PySpark (part of Apache Spark), but previous experience with Spark or distributed computing is NOT required. Students should take this Python mini-quiz before the course and take this Python mini-course if they need to learn Python or refresh their Python knowledge.
